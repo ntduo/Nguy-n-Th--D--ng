@@ -1,0 +1,21 @@
+.form-group{
+    font-size: large;
+    margin: 10px 0px;
+    
+}
+table{
+    border-collapse: collapse;
+    width: 700px;
+    height: 450px;
+    border: 1px solid black;
+}
+tr:first-child{
+    background-color: green;
+    color: white;
+}
+.ab{
+    color: red;
+}
+.cd{
+    background-color: grey;
+}
